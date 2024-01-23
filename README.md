@@ -1,4 +1,4 @@
 Проект: Telegram-бот с функцией календаря  
 Prokhorov Nikolay  
-ikot9ra  
+prohorof  
 prohoroff.4k@gmail.com
